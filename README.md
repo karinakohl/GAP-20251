@@ -14,9 +14,9 @@ A estrutura do repositório está organizada de acordo com as fases de projeto
    - riscos (aula 8),
    - plano de comunicação  (aula 9)) 
 6. **Execução** → Desenvolvimento do Produto/Projeto. Entregáveis da fase de execução.
-  - Visão de Produto (aula 10)
-  - MVP (aula 11)
-  - Quebra de backlog (story mapping) (aula 12)   
+     - Visão de Produto (aula 10)
+     - MVP (aula 11)
+     - Quebra de backlog (story mapping) (aula 12)   
 4. **Monitoramento** → Relatórios, Indicadores de Desempenho, Métricas de acompanhamento
     - OKRs  (aula 16),
     - métricas de produto (aula 17)
