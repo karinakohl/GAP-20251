@@ -2,50 +2,23 @@
 
 Este repositório serve como base para a disciplina de **Gestão de Projetos de Software**, seguindo as áreas de conhecimento do PMBOK e práticas de Gestão de Produtos.
 
-## Estrutura do Repositório
+## Estrutura do Repositório e Fases de Projeto
 
-📂 **docs/** → Documentação geral do projeto  
-📂 **planning/** → Artefatos de planejamento (cronograma, matriz de stakeholders, riscos, etc.)  
-📂 **execution/** → Entregáveis da fase de execução  
-📂 **monitoring/** → Relatórios e métricas de acompanhamento  
-📂 **closure/** → Documentação de encerramento do projeto  
+A estrutura do repositório está organizada de acordo com as fases de projeto
+
+1. **Iniciação** → Termo de Abertura de Projeto (aula 5)
+2. **Planejamento** → Artefatos de planejamento (cronograma/roadmap (aula 6), matriz de stakeholders (aula 6), riscos (aula 8), plano de comunicação  (aula 9)) 
+3. **Execução** → Desenvolvimento do Produto/Projeto. Entregáveis da fase de execução.
+  Visão de Produto (aula 10)
+  MVP (aula 11)
+  Quebra de backlog (story mapping) (aula 12)   
+5. **Monitoramento** → Relatórios, Indicadores de Desempenho, Métricas de acompanhamento (OKRs  (aula 16), métricas de produto (aula 17))
+6. **Encerramento** → Documentação de encerramento do projeto e lições aprendidas
 
 ## Uso do GitHub Projects
 
-Os alunos devem utilizar o **GitHub Projects** para gerenciar as tarefas do projeto. Um quadro padrão foi configurado com as seguintes colunas:
-
-- **Backlog**: Ideias e tarefas a serem priorizadas
-- **Planejamento**: Atividades em fase de organização
-- **Execução**: Tarefas em andamento
-- **Revisão**: Itens que precisam ser validados
-- **Concluído**: Tarefas finalizadas
-
-## Como Entregar
-
-Cada fase do projeto deve ser registrada no repositório seguindo a estrutura sugerida. Além disso, as tarefas devem estar devidamente organizadas no **GitHub Projects**.
-
-1. Clone este repositório
-2. Preencha os artefatos conforme necessário
-3. Mantenha o quadro atualizado
-4. Submeta as entregas na branch principal e documente no README
-
-## Fases do Projeto
-
-As entregas devem seguir as seguintes fases:
-
-1. **Iniciação** → Termo de Abertura, Definição de Stakeholders
-2. **Planejamento** → Estrutura Analítica do Projeto, Roadmap, Backlog de Produto
-3. **Execução** → Desenvolvimento do Produto/Projeto
-4. **Monitoramento** → Relatórios de Status, Indicadores de Desempenho
-5. **Encerramento** → Documentação final e lições aprendidas
-
-## Templates de Issues
-
-Para facilitar a organização, os alunos devem utilizar os seguintes templates de issues:
-
-- 📝 **Nova Tarefa**: Definir o que precisa ser feito e critérios de aceitação
-- 🔍 **Revisão**: Para atividades que precisam ser validadas
-- 🚀 **Entrega Final**: Registro de cada fase concluída
+Utilizar o **GitHub Projects** para gerenciar as tarefas do projeto. 
+Vocês podem usar o template de roadmap ou criar do zero (board ou table)
 
 ## Observações
 
