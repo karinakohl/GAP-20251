@@ -7,7 +7,7 @@ Este repositório serve como base para a disciplina de **Gestão de Projetos de 
 A estrutura do repositório está organizada de acordo com as fases de projeto
 
 1. **Iniciação**
-   -Termo de Abertura de Projeto (aula 5)
+      -  Termo de Abertura de Projeto (aula 5)
 4. **Planejamento** Artefatos de planejamento:
    - cronograma/roadmap (aula 6),
    - matriz de stakeholders (aula 6),
@@ -17,10 +17,11 @@ A estrutura do repositório está organizada de acordo com as fases de projeto
      - Visão de Produto (aula 10)
      - MVP (aula 11)
      - Quebra de backlog (story mapping) (aula 12)   
-4. **Monitoramento** → Relatórios, Indicadores de Desempenho, Métricas de acompanhamento
-    - OKRs  (aula 16),
-    - métricas de produto (aula 17)
-5. **Encerramento**
+4. **Monitoramento**
+      - Relatórios, Indicadores de Desempenho, Métricas de acompanhamento
+          - OKRs  (aula 16),
+          - métricas de produto (aula 17)
+6. **Encerramento**
     - Documentação de encerramento do projeto e lições aprendidas
 
 ## Uso do GitHub Projects
