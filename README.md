@@ -1,4 +1,4 @@
-# Template para Gestão de Projetos de Software
+# Orientações para o trabalho de Gestão de Projetos
 
 Este repositório serve como base para a disciplina de **Gestão de Projetos de Software**, seguindo as áreas de conhecimento do PMBOK e práticas de Gestão de Produtos.
 
