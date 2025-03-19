@@ -19,7 +19,6 @@ A estrutura do repositório está organizada de acordo com as fases de projeto
            - MVP (aula 11)
            - Quebra de backlog (story mapping) (aula 12)
            - Aqui, vocês vão poder definir até que ponto vocês vão entregar, dependendo do que vocês escolherem fazer. Por exemplo:
-           		- jornada do usuário
 	           - um protótipo das telas sem implementação, para validação com usuário
 	           - código (sw funcional)
            - Se não houver sw envolvido, alinhar individualmente com a Professora.         
