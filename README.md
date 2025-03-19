@@ -41,7 +41,7 @@ Vocês podem usar o template de roadmap ou criar do zero (board ou table)
 ## Observações
 
 - Este repositório deve ser mantido atualizado ao longo do semestre.
-- Qualquer dúvida, entre em contato com o professor(a) responsável.
+- Qualquer dúvida, entre em contato com a professora.
 
 ---
 
